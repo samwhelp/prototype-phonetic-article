@@ -1,0 +1,14 @@
+#phonetic_panel {
+	background-color: #000;
+	color: #ccc;
+	width: 80px;
+	height: 40px;
+	font-size: 20px;
+	padding: 20px;
+}
+
+.phonetic-char {
+	margin-left: 10px;
+	font-size:20px;
+	cursor: pointer;
+}
