@@ -9,7 +9,7 @@
 
 ## 參考專案
 
-* [https://github.com/tony1223/Bpmf](https://github.com/tony1223/Bpmf)
+* [https://github.com/tony1223/Bpmf/tree/gh-pages](https://github.com/tony1223/Bpmf/tree/gh-pages)
 * [https://github.com/Ayukawayen/Bpmf](https://github.com/Ayukawayen/Bpmf)
 * [https://github.com/softcup/New-Tongwentang-for-Web](https://github.com/softcup/New-Tongwentang-for-Web)
 
@@ -24,4 +24,4 @@
 
 ## 聲明
 
-* web/chars.js 是來自這個專案。
+* web/[chars.js](https://github.com/tony1223/Bpmf/blob/gh-pages/chars.js) 是來自這個[專案](https://github.com/tony1223/Bpmf/tree/gh-pages) 。
