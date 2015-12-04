@@ -12,3 +12,7 @@
 	font-size:20px;
 	cursor: pointer;
 }
+
+.phonetic-char:hover {
+	color: #456;
+}
